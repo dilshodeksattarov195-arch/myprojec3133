@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productfync",
+        "uuid": 19803693,
+        "checksum": "9af2zc"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
